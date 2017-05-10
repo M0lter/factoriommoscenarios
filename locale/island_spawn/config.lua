@@ -18,7 +18,7 @@ SPAWN_SIZE = TRACK_WIDTH+1 + ORE_SIZE
 INITIAL_ORE_VALUE = 160
 
 -- Do you start the game with Landfill researched? (Useful if ORE_SIZE and INITIAL_ORE_VALUE are low)
-START_WITH_LANDFILL_RESEARCHED = false
+START_WITH_LANDFILL_RESEARCHED = true
 
 -- Chance (percent) that an island will spawn
 ISLAND_SPAWN_CHANCE = 5 -- 5%
