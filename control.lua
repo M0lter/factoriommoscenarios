@@ -41,7 +41,7 @@ function player_joined(event)
 	if (player.force.technologies["steel-processing"].researched) then
         player.insert { name = "steel-axe", count = 2 }
     else
-        player.insert { name = "axe", count = 5 }
+        player.insert { name = "iron-axe", count = 5 }
     end
 end
 
